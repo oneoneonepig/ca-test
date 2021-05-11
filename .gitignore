@@ -1,0 +1,8 @@
+**/*.pem
+**/*.key
+**/*.csr
+**/*.crl
+**/*.srl
+case-a-default/**
+case-b-aia/**
+case-c-combined/**
